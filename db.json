@@ -1,22 +1,11 @@
 {
-  "students": [
+  "posts": [
     {
       "id": 1,
-      "username": "Tom",
-      "age": 23,
-      "address": "北京"
-    },
-    {
-      "id": 2,
-      "username": "Jack",
-      "age": 24,
-      "address": "深圳"
-    },
-    {
-      "id": 3,
-      "username": "Bob",
-      "age": 22,
-      "address": "上海"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
