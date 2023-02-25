@@ -3,17 +3,20 @@
     {
       "id": 1,
       "username": "Tom",
-      "age": 23
+      "age": 23,
+      "salary": 15000
     },
     {
       "id": 2,
       "username": "Jack",
-      "age": 24
+      "age": 24,
+      "salary": 13000
     },
     {
       "id": 3,
       "username": "Bob",
-      "age": 22
+      "age": 22,
+      "salary": 14000
     }
   ]
 }
