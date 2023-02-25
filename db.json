@@ -1,5 +1,5 @@
 {
-   "students": [
+  "students": [
     {
       "id": 1,
       "username": "Tom",
@@ -12,7 +12,7 @@
       "username": "Jack",
       "age": 24,
       "address": "深圳",
-       "salary": 14000
+      "salary": 14000
     },
     {
       "id": 3,
