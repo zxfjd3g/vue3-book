@@ -1,31 +1,37 @@
 {
-  "students": [
-    {
-      "id": 1,
-      "username": "Tom",
-      "age": 23,
-      "address": "北京"
-    },
-    {
-      "id": 2,
-      "username": "Jack",
-      "age": 24,
-      "address": "深圳"
-    },
-    {
-      "id": 3,
-      "username": "Bob",
-      "age": 22,
-      "address": "上海"
-    }
-  ],
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "北京尚硅谷",
+      "content": "北京市昌平区宏福科技园2号楼3层（北京校区）"
+    },
+    {
+      "id": 2,
+      "title": "深圳尚硅谷",
+      "content": "深圳市宝安区西部硅谷大厦B座C区一层（深圳校区）"
+    },
+    {
+      "id": 3,
+      "title": "上海尚硅谷",
+      "content": "上海市松江区谷阳北路166号大江商厦3层（上海校区）"
+    },
+    {
+      "id": 3,
+      "title": "武汉尚硅谷",
+      "content": "武汉市东湖高新区东湖网谷6号楼4层（武汉校区）"
+    },
+    {
+      "id": 3,
+      "title": "西安尚硅谷",
+      "content": "西安市雁塔区和发智能大厦B座3层（西安校区）"
+    },
+    {
+      "id": 3,
+      "title": "成都尚硅谷",
+      "content": "成都市成华区北辰星拱青创园综合楼3层（成都校区）"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "atguigu"
   }
 }
